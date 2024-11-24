@@ -7,3 +7,5 @@ features i want to add at some point:
 1. better conversion for flow charts
 2. conversion for tables with merged cells
 3. naming the slide acording to the H1 and not by slide number
+4. adding breadcrums to each slide based on the category/folder/main page
+5. adding search (by keywords) for each slide in the main navigation page
